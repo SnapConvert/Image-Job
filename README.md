@@ -28,11 +28,11 @@
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - 🔄 **Universal Format Support:** Convert between hundreds of video, audio, image, document, ebook, and archive formats (e.g., MP4, MP3, PNG, WEBP, PDF, DOCX, ZIP).
-- ⚡ **Batch Processing:** Convert dozens of files simultaneously with one click.
-- 🔒 **Client-Side & Secure Processing:** Support for browser-based WebAssembly conversions so your sensitive files never have to leave your device.
-- 🎨 **Custom Output Settings:** Tweak bitrate, resolution, compression levels, frame rates, and audio channels before converting.
-- 💻 **Cross-Platform & Browser-Native:** Works seamlessly on modern browsers across Windows, macOS, Linux, iOS, and Android without installing extra software.
-- 🔌 **API & CLI Access:** Easily integrate SnapConvert's engine into your custom scripts, workflows, or developer projects.
+-  **Batch Processing:** Convert dozens of files simultaneously with one click.
+-  **Client-Side & Secure Processing:** Support for browser-based WebAssembly conversions so your sensitive files never have to leave your device.
+-  **Custom Output Settings:** Tweak bitrate, resolution, compression levels, frame rates, and audio channels before converting.
+-  **Cross-Platform & Browser-Native:** Works seamlessly on modern browsers across Windows, macOS, Linux, iOS, and Android without installing extra software.
+-  **API & CLI Access:** Easily integrate SnapConvert's engine into your custom scripts, workflows, or developer projects.
