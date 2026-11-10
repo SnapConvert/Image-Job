@@ -7,7 +7,6 @@
   ### *The tool you know, rebuilt for free.*
    ### *Coming out 7/5/27.*
 
-[![Downloads](https://img.shields.io/badge/Download-Latest_Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/NotSUSGD/Image-Job/releases)&nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/badge/Website-snapconvert.net-blue?style=for-the-badge&logo=google-chrome)](https://snapconvert.net)&nbsp;&nbsp;&nbsp;[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)&nbsp;&nbsp;&nbsp;[![Discord](https://img.shields.io/badge/Discord-Join_Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rabSHjQVHj)&nbsp;&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-View_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@snapconvert-converter?si=khgimZs_4RL1e5h2)
 
 </div>
 
