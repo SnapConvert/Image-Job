@@ -41,10 +41,10 @@
 ## 🚀 Installation
 
 ### Windows
-Download the latest `.msi` or portable `.zip` installer from the [Releases](https://github.com/imagejob/imagejob/releases) page and run the setup wizard.
+Download the latest `.exe` installer from the [Releases](https://github.com/imagejob/imagejob/releases) page and run the setup wizard.
 
 ### macOS
-Download the `.dmg` file suitable for your architecture (Apple Silicon or Intel), open it, and drag **ImageJOB** to your `Applications` folder.
+Download the `.app` file suitable for your architecture (Apple Silicon or Intel), open it, and drag **ImageJOB** to your `Applications` folder.
 
 ### Linux
 ImageJOB is available as an AppImage, Flatpak, and Snap package:
